@@ -438,7 +438,7 @@
                         <button class="text-base font-medium leading-none text-indigo-700 py-4 px-5 bg-white rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white hover:bg-gray-300">Get it now</button>
                     </div>
                     <div class="lg:hidden text-white">
-                        <img id="open" onclick="MenuHandler(true)" src="../svg/svg2.svg" alt="open"/>
+                        <!--<img id="open" onclick="MenuHandler(true)" src="../svg/svg2.svg" alt="open"/>-->
                         
                         <div id="close" class="hidden close-m-menu" onclick="MenuHandler(false)">
                             <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/contact1-svg3.svg" alt="close"/>
